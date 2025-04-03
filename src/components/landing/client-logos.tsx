@@ -15,7 +15,7 @@ export function ClientLogos() {
     <section id="clients" className="w-full py-12 md:py-20 bg-muted">
       <div className="container mx-auto px-4">
         <h4 className="text-center text-sm font-semibold uppercase text-muted-foreground tracking-wider mb-8">
-          Clients We've Helped Grow
+          Clients We&apos;ve Helped Grow
         </h4>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-x-8 gap-y-6 items-center justify-items-center">
           {clientLogos.map((logo) => (
